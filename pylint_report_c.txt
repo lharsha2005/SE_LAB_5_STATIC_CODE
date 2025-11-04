@@ -1,0 +1,6 @@
+************* Module corrected_code
+corrected_code.py:168:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.89/10 (previous run: 7.98/10, +1.91)
+
